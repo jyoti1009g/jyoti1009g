@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me
 
-Senior Software Developer with **4.6+ years of experience** building scalable backend systems for **Banking and Government platforms**.
+Senior Software Developer with **5+ years of experience** building scalable backend systems for **Banking and Government platforms**.
 
 🔹 Expertise in **Java, Spring Boot, Microservices**  
 🔹 Experience building **high-concurrency distributed systems**  
