@@ -76,7 +76,12 @@ Senior Software Developer with **5+ years of experience** building scalable back
 
 ---
 
-## 📫 Connect With Me
+### 🌐 Connect with Me
 
-LinkedIn: linkedin.com/in/jyotigupta2808  
-LeetCode: leetcode.com/jyoti_gupta_28
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/jyotigupta2808)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/jyoti_gupta_28)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?logo=geeksforgeeks)](https://geeksforgeeks.org/profile/jyoti-gupta1009)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-green?logo=hackerrank)](https://hackerrank.com/profile/guptajyoti1009)
