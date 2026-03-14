@@ -70,6 +70,12 @@ Senior Software Developer with **5+ years of experience** building scalable back
 
 ---
 
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=jyoti1009g)
+
+---
+
 ## 📫 Connect With Me
 
 LinkedIn: linkedin.com/in/jyotigupta2808  
