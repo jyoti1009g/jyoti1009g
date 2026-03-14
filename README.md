@@ -1,13 +1,13 @@
 # Hi 👋 I'm Jyoti Gupta
 
-💻 Software Developer  
+💻 Senior Software Developer  
 ☕ Java | Spring Boot | Microservices  
-📱 React Native Developer  
+📱 Full Stack Developer  
 
 ---
 
 ## 🚀 About Me
-- 4+ years of experience in Software Development
+- 5+ years of experience in Software Development
 - Passionate about Backend Development
 - Currently practicing Data Structures & Algorithms
 - Preparing for Senior Software Engineer roles
