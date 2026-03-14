@@ -1,58 +1,76 @@
-<h1 align="center">Hi 👋, I'm Jyoti Gupta</h1>
-<h3 align="center">Software Developer | Java | Spring Boot | Microservices</h3>
+<h1 align="center">Hi 👋 I'm Jyoti Gupta</h1>
+<h3 align="center">Senior Software Developer | Java | Spring Boot | Microservices</h3>
 
 ---
 
-### 👩‍💻 About Me
-- 💻 5+ years of experience in Software Development
-- 🚀 Skilled in Java, Spring Boot, Microservices
-- 📚 Currently practicing DSA and System Design
-- 🎯 Preparing for Senior Software Engineer roles
+## 👩‍💻 About Me
+
+Senior Software Developer with **4.6+ years of experience** building scalable backend systems for **Banking and Government platforms**.
+
+🔹 Expertise in **Java, Spring Boot, Microservices**  
+🔹 Experience building **high-concurrency distributed systems**  
+🔹 Strong focus on **performance, security, and system design**
 
 ---
 
-### 🛠 Tech Stack
+## 🚀 Tech Stack
 
-Backend
-- Java
+**Backend**
+- Java (8/11/17)
 - Spring Boot
 - Microservices
 - REST APIs
+- JPA / Hibernate
 
-Database
-- MySQL
+**Frontend**
+- React
+- Angular
+- HTML / CSS
+
+**Data & Messaging**
 - PostgreSQL
+- MySQL
+- Redis
+- Apache Kafka
 
-Frontend / Mobile
-- React Native
-- Ionic
+**Security**
+- OAuth2
+- JWT
+- Digital Signatures (DSC)
 
-Tools
-- Git
+**DevOps**
 - Docker
-- Postman
+- Jenkins
+- Azure
+- Git
+- Maven / Gradle
 
 ---
 
-### 📊 GitHub Stats
+## 🏦 Key Domains
 
-![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoti1009g&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti1009g&layout=compact)
-
----
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=jyoti1009g)
+- Banking Platforms
+- Government Digital Services
+- Event-Driven Architecture
+- Distributed Systems
 
 ---
 
-### 📫 Connect With Me
+## 📚 Currently Exploring
 
-- LinkedIn
-- Email
+- System Design
+- High-Scale Backend Systems
+- Advanced DSA
 
 ---
 
-⭐ Always learning, always building.
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyoti1009g&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: linkedin.com/in/jyotigupta2808  
+LeetCode: leetcode.com/jyoti_gupta_28
